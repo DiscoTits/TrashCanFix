@@ -6,4 +6,4 @@ This fixes your Trash Can
 
 To do -
 
-Find someone to explain how CHMOD 
+Nothing code is flawless. XD
